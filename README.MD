@@ -2,8 +2,6 @@
 
 A simple example of a Virtual home tour with clickable hotspots to take you throughout the property. (Random stock images used)
 
-<img src="/readme_images/tour_example.png">
-
 
 ## Technologies Used
 
@@ -11,14 +9,14 @@ A simple example of a Virtual home tour with clickable hotspots to take you thro
 - Express
 - A-frame (Uses html, css & javascript to create a virtual 3D world)
 
-
+<img src="/readme_images/tour_example.png">
 
 # Panoramic Image Sticher
 
 ## Parallax Errors
 For high quality panoramic images it is recommended to use a tripod to reduce the amount of parallax errors in the image stitching process.
 
-<img src="/readme_images/Parallax.webp)">
+<img src="/readme_images/Parallax.webp">
 
 ## How To
 
@@ -26,14 +24,13 @@ For high quality panoramic images it is recommended to use a tripod to reduce th
 - Running the image_stitching.py program will start by showing each image you want stitched 1 by 1 followed by the output, hit any key to continue the stitching process. 
 - The stitched panoramic image will by put in the Image_Stitching folder.
 
-<img src="/readme_images/example.png)">
 
 ## Technologies Used
 
 - Python
 - openCV
 
-
+<img src="/readme_images/stitch_example.png">
 
 # Panoramic Image Viewer
 
