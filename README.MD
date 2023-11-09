@@ -20,7 +20,7 @@ For high quality panoramic images it is recommended to use a tripod to reduce th
 
 ## How To
 
-- Place the images you want stitched together into the 'unstitchedimages' folder named "first.jpg", "second.jpg" ect..
+- Place the images you want stitched together into the 'unstitchedimages'.
 - Running the image_stitching.py program will start by showing each image you want stitched 1 by 1 followed by the output, hit any key to continue the stitching process. 
 - The stitched panoramic image will be put in the Image_Stitching folder.
 
