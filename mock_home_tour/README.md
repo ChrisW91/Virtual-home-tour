@@ -2,7 +2,7 @@
 
 A simple example of a Virtual home tour with clickable hotspots to take you throughout the property. (Random stock images used)
 
-![](/readme_images/example.png)
+<img src="/readme_images/tour_example.png)">
 
 ## Technologies Used
 
